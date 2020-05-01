@@ -1,0 +1,98 @@
+.App {
+  margin: auto;
+  font-family: sans-serif;
+  text-align: center;
+  touch-action: manipulation;
+  user-select: none;
+}
+
+.pipe {
+  width: 38px;
+  height: 38px;
+  border: 1px solid;
+}
+
+.pipeDemo {
+  width: 38px;
+  height: 38px;
+  border: 1px solid;
+}
+
+.pipe-row {
+  line-height: 0px;
+}
+
+.pipe-blank {
+  width: 40px;
+  height: 40px;
+}
+
+.demo {
+  border: 0px solid;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.demo .pipe-blank {
+  width: 20px;
+  height: 40px;
+}
+
+.demo2 {
+  height: 20px;
+}
+
+.demo2 .pipe-blank {
+  width: 320px;
+  height: 10px;
+}
+
+.gameInfo {
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.gameBase {
+  white-space: nowrap;
+}
+
+.gameBoard {
+  display: inline-block;
+  padding-inline-end: 8px;
+  margin-top: 20px;
+}
+
+.newGameField {
+  text-align: left;
+}
+
+.numberBoxPM {
+  display: inline;
+  touch-action: none;
+}
+
+.numberBoxPM .numberBox {
+  width: 3em;
+}
+
+.scoreField {
+  display: inline;
+  padding-inline-start: 10px;
+}
+
+.editMode {
+  display: inline-block;
+  border: 1px solid;
+  padding-inline-start: 5px;
+  padding-inline-end: 5px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.editMode .editShape {
+  padding-inline-start: 10px;
+}
+
+.editMode .controlPanel {
+  padding-inline-start: 10px;
+}
