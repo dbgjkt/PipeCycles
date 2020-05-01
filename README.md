@@ -1,6 +1,6 @@
 # PipeCycles
 
-![image](https://github.com/dbgjkt/PipeCycles/blob/master/PC_demo001.png)
+![image](https://github.com/dbgjkt/PipeCycles/blob/master/img/PC_demo.png)
 
 自學React的小作品，一個接水管小遊戲，使水管連成環狀(Cycle)可使其消去並得到分數，遊戲目標為取得高分。  
 初期使用codepen.io開發，後移至codesandbox.io。  
